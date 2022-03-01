@@ -6,4 +6,4 @@ import pytesseract
 #metodos internos
 #import functions as fc
 
-print("Hello")
+st.write("Hello")
